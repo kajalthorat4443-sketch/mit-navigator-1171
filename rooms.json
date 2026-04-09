@@ -1,0 +1,797 @@
+{
+    "building": "Building B",
+    "institution": "Institute of Technology",
+    "floors": {
+        "ground foor": {
+            "label": "Ground Floor",
+            "image": "assets/images/ground_floor.jpeg",
+            "rooms": [
+                {
+                    "id": "BGF-06",
+                    "name": "hardware lab",
+                    "type": "lab",
+                    "top": 6.38,
+                    "left": 40.19,
+                    "width": 25,
+                    "height": 16.5,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 48.08,
+                        "top": 22.31
+                    }
+                },
+                {
+                    "id": "BGF-07",
+                    "name": "MICROPROCESSOR",
+                    "type": "lab",
+                    "top": 6.54,
+                    "left": 65.91,
+                    "width": 24.55,
+                    "height": 16.44,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 68.24,
+                        "top": 22.23
+                    }
+                },
+                {
+                    "id": "BGF-05",
+                    "name": "STORE ROOM",
+                    "type": "lab",
+                    "top": 11.23,
+                    "left": 20.84,
+                    "width": 18.82,
+                    "height": 11.63,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 28.19,
+                        "top": 22.23
+                    }
+                },
+                {
+                    "id": "BGF-01",
+                    "name": "COMPUTER CENTRE",
+                    "type": "lab",
+                    "top": 76.48,
+                    "left": 12.69,
+                    "width": 60.04,
+                    "height": 12.75,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 38.22,
+                        "top": 76.86
+                    }
+                },
+                {
+                    "id": "BGF-02",
+                    "name": "LAB ALUMINI",
+                    "type": "lab",
+                    "top": 66.86,
+                    "left": 11.88,
+                    "width": 18.19,
+                    "height": 7.88,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 28.99,
+                        "top": 67.92
+                    }
+                },
+                {
+                    "id": "BGF-10",
+                    "name": "ELECTRICAL SUPPLY ROOM",
+                    "type": "lab",
+                    "top": 66.98,
+                    "left": 41.09,
+                    "width": 16.22,
+                    "height": 9.5,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 41.09,
+                        "top": 72.73
+                    }
+                },
+                {
+                    "id": "BGF-08",
+                    "name": "INTERNET NETWORK",
+                    "type": "lab",
+                    "top": 28.65,
+                    "left": 53.01,
+                    "width": 26.52,
+                    "height": 14.63,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 58.38,
+                        "top": 28.34
+                    }
+                },
+                {
+                    "id": "BGF-09",
+                    "name": "SOFTWARE TESTING",
+                    "type": "lab",
+                    "top": 37.15,
+                    "left": 40.55,
+                    "width": 26.88,
+                    "height": 16.06,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 40.91,
+                        "top": 44.03
+                    }
+                },
+                {
+                    "id": "BGF-03",
+                    "name": "PROGRAMMING",
+                    "type": "lab",
+                    "top": 35.34,
+                    "left": 11.61,
+                    "width": 21.15,
+                    "height": 22.06,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 32.31,
+                        "top": 55.34
+                    }
+                },
+                {
+                    "id": "BGF-11",
+                    "name": "STAIR CASE",
+                    "type": "stairs",
+                    "top": 57.01,
+                    "left": 11.16,
+                    "width": 19.27,
+                    "height": 10,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 26.4,
+                        "top": 61.45
+                    }
+                },
+                {
+                    "id": "BGF-04",
+                    "name": "HOD CABIN COMPUTER DEPT",
+                    "type": "lab",
+                    "top": 27.79,
+                    "left": 11.34,
+                    "width": 21.86,
+                    "height": 7.88,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": "this is a hod cabin this cabin is the gorpade sir cabin",
+                    "door": {
+                        "left": 32.22,
+                        "top": 33.73
+                    }
+                }
+            ],
+            "mainPath": [
+                {
+                    "left": 37.86,
+                    "top": 76.54
+                },
+                {
+                    "left": 37.15,
+                    "top": 65.54
+                },
+                {
+                    "left": 37.15,
+                    "top": 51.92
+                },
+                {
+                    "left": 37.15,
+                    "top": 30.38
+                },
+                {
+                    "left": 36.97,
+                    "top": 27.13
+                },
+                {
+                    "left": 36.61,
+                    "top": 25.07
+                },
+                {
+                    "left": 68.69,
+                    "top": 25.2
+                },
+                {
+                    "left": 68.33,
+                    "top": 22.32
+                }
+            ]
+        },
+        "first floor": {
+            "label": "First Floor",
+            "image": "assets/images/first_floor.jpeg",
+            "rooms": [
+                {
+                    "id": "BFS-08",
+                    "name": "LADIES TOILET",
+                    "type": "utility",
+                    "top": 9.96,
+                    "left": 21.39,
+                    "width": 10.36,
+                    "height": 13.75,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 29.05,
+                        "top": 23.14
+                    }
+                },
+                {
+                    "id": "BFS-03",
+                    "name": "GENTS TOILET",
+                    "type": "utility",
+                    "top": 29.14,
+                    "left": 12.89,
+                    "width": 21.1,
+                    "height": 6.81,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 33.15,
+                        "top": 34.02
+                    }
+                },
+                {
+                    "id": "BFS-04",
+                    "name": "CLASSROOM",
+                    "type": "classroom",
+                    "top": 6.96,
+                    "left": 31.19,
+                    "width": 30.91,
+                    "height": 16.5,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 59.39,
+                        "top": 23.08
+                    }
+                },
+                {
+                    "id": "BFS-07",
+                    "name": "LANGUAGE",
+                    "type": "lab",
+                    "top": 7.21,
+                    "left": 62.19,
+                    "width": 30.07,
+                    "height": 16.38,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 64.25,
+                        "top": 22.86
+                    }
+                },
+                {
+                    "id": "BFS-06",
+                    "name": "SCIST CELL",
+                    "type": "lab",
+                    "top": 23.17,
+                    "left": 66.39,
+                    "width": 16.34,
+                    "height": 5.94,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 66.58,
+                        "top": 27.3
+                    }
+                },
+                {
+                    "id": "BFS-05",
+                    "name": "STORE ROOM",
+                    "type": "lab",
+                    "top": 33.67,
+                    "left": 41.74,
+                    "width": 17.46,
+                    "height": 12.94,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 42.12,
+                        "top": 41.55
+                    }
+                },
+                {
+                    "id": "BFS-02",
+                    "name": "OFFICE",
+                    "type": "office",
+                    "top": 35.82,
+                    "left": 12.24,
+                    "width": 21.66,
+                    "height": 21.13,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 33.15,
+                        "top": 55.32
+                    }
+                },
+                {
+                    "id": "BFS-01",
+                    "name": "BOARD ROOM",
+                    "type": "lab",
+                    "top": 65.53,
+                    "left": 11.77,
+                    "width": 13.17,
+                    "height": 22.56,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 24.56,
+                        "top": 67.6
+                    }
+                },
+                {
+                    "id": "BFS-09",
+                    "name": "PRINCIPAL CABIN",
+                    "type": "lab",
+                    "top": 75.1,
+                    "left": 49.96,
+                    "width": 24.46,
+                    "height": 13.25,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 50.05,
+                        "top": 80.72
+                    }
+                },
+                {
+                    "id": "BFS-10",
+                    "name": "MAIN ENTARANCE",
+                    "type": "lab",
+                    "top": 65.77,
+                    "left": 41,
+                    "width": 14.94,
+                    "height": 9.31,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 41.09,
+                        "top": 70.02
+                    }
+                },
+                {
+                    "id": "BFS-11",
+                    "name": "STAIR CASE",
+                    "type": "stairs",
+                    "top": 56.24,
+                    "left": 12.15,
+                    "width": 18.86,
+                    "height": 10.06,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 28.67,
+                        "top": 61.24
+                    }
+                }
+            ],
+            "mainPath": [
+                {
+                    "left": 29.23,
+                    "top": 61.27
+                },
+                {
+                    "left": 37.82,
+                    "top": 61.27
+                },
+                {
+                    "left": 37.82,
+                    "top": 26.81
+                },
+                {
+                    "left": 58.74,
+                    "top": 26.25
+                },
+                {
+                    "left": 59.2,
+                    "top": 22.81
+                }
+            ]
+        },
+        "second floor": {
+            "label": "Second Floor",
+            "image": "assets/images/second_floor.jpeg",
+            "rooms": [
+                {
+                    "id": "BSF-06",
+                    "name": "SEMINAR HALL",
+                    "type": "lab",
+                    "top": 8.63,
+                    "left": 30.08,
+                    "width": 60.59,
+                    "height": 15.75,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 60.16,
+                        "top": 24.01
+                    }
+                },
+                {
+                    "id": "BSF-05",
+                    "name": "LADIES TOILET",
+                    "type": "lab",
+                    "top": 10.82,
+                    "left": 19.97,
+                    "width": 10.03,
+                    "height": 13.75,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 27.73,
+                        "top": 24.07
+                    }
+                },
+                {
+                    "id": "BSF-04",
+                    "name": "GENTS TOILET",
+                    "type": "lab",
+                    "top": 29.46,
+                    "left": 11.86,
+                    "width": 20.05,
+                    "height": 7.25,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 30.96,
+                        "top": 35.07
+                    }
+                },
+                {
+                    "id": "BSF-03",
+                    "name": "PHYSICS",
+                    "type": "lab",
+                    "top": 36.53,
+                    "left": 11.69,
+                    "width": 19.79,
+                    "height": 21.06,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 30.78,
+                        "top": 55.93
+                    }
+                },
+                {
+                    "id": "BSF-02",
+                    "name": "DRAWING HALL",
+                    "type": "lab",
+                    "top": 66.23,
+                    "left": 11.78,
+                    "width": 13.16,
+                    "height": 22,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 24.42,
+                        "top": 68.1
+                    }
+                },
+                {
+                    "id": "BSF-01",
+                    "name": "HOD CABIN",
+                    "type": "lab",
+                    "top": 75.67,
+                    "left": 24.94,
+                    "width": 14.39,
+                    "height": 12.94,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 37.06,
+                        "top": 76.42
+                    }
+                },
+                {
+                    "id": "BSF-08",
+                    "name": "CHEMISTRY",
+                    "type": "lab",
+                    "top": 63.54,
+                    "left": 39.5,
+                    "width": 29.64,
+                    "height": 24.88,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 39.85,
+                        "top": 65.1
+                    }
+                },
+                {
+                    "id": "BSF-09",
+                    "name": "STAIR CASE",
+                    "type": "stairs",
+                    "top": 57.78,
+                    "left": 12.65,
+                    "width": 18.48,
+                    "height": 9.06,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 27.38,
+                        "top": 61.78
+                    }
+                },
+                {
+                    "id": "BSF-07",
+                    "name": "GIRLS COMMON",
+                    "type": "hall",
+                    "top": 37.55,
+                    "left": 38.45,
+                    "width": 13.95,
+                    "height": 7.5,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 39.33,
+                        "top": 41.99
+                    }
+                }
+            ],
+            "mainPath": [
+                {
+                    "left": 27.64,
+                    "top": 61.57
+                },
+                {
+                    "left": 35.58,
+                    "top": 61.32
+                },
+                {
+                    "left": 35.4,
+                    "top": 37.75
+                },
+                {
+                    "left": 34.18,
+                    "top": 27.05
+                },
+                {
+                    "left": 60.42,
+                    "top": 26.73
+                },
+                {
+                    "left": 59.99,
+                    "top": 24.11
+                }
+            ]
+        },
+        "third floor": {
+            "label": "Third Floor",
+            "image": "assets/images/third_floor.jpeg",
+            "rooms": [
+                {
+                    "id": "BTF-05",
+                    "name": "CLASS ROOM-02",
+                    "type": "classroom",
+                    "top": 7.25,
+                    "left": 30.76,
+                    "width": 30.3,
+                    "height": 16.75,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 48.97,
+                        "top": 23.5
+                    }
+                },
+                {
+                    "id": "BTF-06",
+                    "name": "CLASS ROOM-03",
+                    "type": "classroom",
+                    "top": 7.13,
+                    "left": 60.87,
+                    "width": 30.03,
+                    "height": 16.94,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 62.77,
+                        "top": 23.31
+                    }
+                },
+                {
+                    "id": "BTF-04",
+                    "name": "LADIES TOILET",
+                    "type": "classroom",
+                    "top": 9.76,
+                    "left": 20.39,
+                    "width": 10.73,
+                    "height": 14.44,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 28.5,
+                        "top": 23.51
+                    }
+                },
+                {
+                    "id": "BTF-03",
+                    "name": "GENTS TOILET",
+                    "type": "classroom",
+                    "top": 28.82,
+                    "left": 12.18,
+                    "width": 21.1,
+                    "height": 7.75,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 32.65,
+                        "top": 34.76
+                    }
+                },
+                {
+                    "id": "BTF-02",
+                    "name": "CLASS ROOM-01",
+                    "type": "classroom",
+                    "top": 36.36,
+                    "left": 12.09,
+                    "width": 21.1,
+                    "height": 21.31,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 32.2,
+                        "top": 55.99
+                    }
+                },
+                {
+                    "id": "BTF-01",
+                    "name": "DRAWING HALL",
+                    "type": "hall",
+                    "top": 66.75,
+                    "left": 12.45,
+                    "width": 21.01,
+                    "height": 22.81,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 32.74,
+                        "top": 68.18
+                    }
+                },
+                {
+                    "id": "BTF-07",
+                    "name": "CLASS ROOM-04",
+                    "type": "classroom",
+                    "top": 63.68,
+                    "left": 40.31,
+                    "width": 33.09,
+                    "height": 25.88,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 41.31,
+                        "top": 65.5
+                    }
+                },
+                {
+                    "id": "BTF-10",
+                    "name": "STAIR CASE",
+                    "type": "stairs",
+                    "top": 57.47,
+                    "left": 12.18,
+                    "width": 20.2,
+                    "height": 9.56,
+                    "area": null,
+                    "capacity": null,
+                    "contact": null,
+                    "description": null,
+                    "door": {
+                        "left": 28.5,
+                        "top": 62.22
+                    }
+                }
+            ],
+            "mainPath": [
+                {
+                    "left": 28.5,
+                    "top": 62.21
+                },
+                {
+                    "left": 36.53,
+                    "top": 62.27
+                },
+                {
+                    "left": 37.43,
+                    "top": 26.19
+                },
+                {
+                    "left": 62.95,
+                    "top": 25.75
+                },
+                {
+                    "left": 62.86,
+                    "top": 23
+                }
+            ]
+        }
+    }
+}
